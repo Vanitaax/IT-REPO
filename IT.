@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IT Support FAQ</title>
+  <style>
+    body { font-family: Arial; padding: 20px; max-width: 600px; margin: auto; }
+    h1 { color: #0078D4; }
+    h2 { color: #444; }
+    p { margin-bottom: 1em; }
+  </style>
+</head>
+<body>
+  <h1>IT Support – FAQ</h1>
+
+  <h2>Password Reset</h2>
+  <p>To reset your password, follow these steps... [add details here]</p>
+
+  <h2>Printer Not Working</h2>
+  <p>Check if your printer is online. Restart it and try again... [add details]</p>
+
+  <h2>Disk Cleanup</h2>
+  <p>Use Disk Cleanup tool on Windows by typing "Disk Cleanup" in the start menu...</p>
+
+  <h2>Still need help?</h2>
+  <p>Submit a form to the IT bot or contact support@example.com</p>
+</body>
+</html>
